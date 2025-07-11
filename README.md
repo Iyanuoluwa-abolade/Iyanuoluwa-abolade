@@ -1,6 +1,5 @@
-## Hi there 👋
+## Hi, I'm Iyanuoluwa!👋
 
-I'm Iyanuoluwa!
 
 😄 Pronouns: she/her/hers
 
