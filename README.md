@@ -42,7 +42,7 @@ Performed model selection to identify Logistic Regression
 
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib
 
-
+Interests - SWE, PM
 
 📫 How to Reach Me:
 
