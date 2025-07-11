@@ -31,5 +31,7 @@ Learning: email notification system using nodemailer
 
 📫 How to Reach Me:
 
+ifagbami@gsumail.gram.edu
+
 LinkedIn: https://www.linkedin.com/in/iyanuoluwa-fagbamila/
 
