@@ -29,14 +29,14 @@ Learning: email notification system using nodemailer
 
 
 
-2. Model Selection - https://github.com/Iyanuoluwa-abolade/My-eCornell-Repository/blob/main/ModelSelectionForKNN%20(1).ipynb
+2. Model-Selection - https://github.com/Iyanuoluwa-abolade/My-eCornell-Repository/blob/main/ModelSelectionForKNN%20(1).ipynb
   
 Performed model selection to identify the optimal KNN classifier
 
 Libraries & Frameworks: scikit-learn, Pandas, NumPy, matplotlib
 
 
-3. Model Selection For Logistic Regression - https://github.com/Iyanuoluwa-abolade/My-eCornell-Repository/blob/main/ModelSelectionForLogisticRegression%20(1).ipynb
+3. Model-Selection-For-Logistic-Regression - https://github.com/Iyanuoluwa-abolade/My-eCornell-Repository/blob/main/ModelSelectionForLogisticRegression%20(1).ipynb
  
 Performed model selection to identify Logistic Regression
 
